@@ -1,2 +1,1 @@
-myString <- "Hello, World!"
-print(myString)
+cat("Hello, World!\n")
